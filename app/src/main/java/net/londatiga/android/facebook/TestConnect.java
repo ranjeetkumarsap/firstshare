@@ -51,6 +51,8 @@ public class TestConnect extends Activity {
         super.onCreate(savedInstanceState);
         
         setContentView(R.layout.main);
+	    
+	    // from git
         
         mFacebookBtn	= (CheckBox) findViewById(R.id.cb_facebook);
         
