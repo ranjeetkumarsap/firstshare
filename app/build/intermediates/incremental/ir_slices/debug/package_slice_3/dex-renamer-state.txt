@@ -1,0 +1,4 @@
+#Tue Dec 04 14:04:30 IST 2018
+base.0=E\:\\sample\\GitHubList-master\\AndroidFacebook_master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

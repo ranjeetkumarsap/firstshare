@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:3:2-42
+		INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:7:5-24:19
+	android:label
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:7:48-80
+	android:icon
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:7:18-47
+activity#net.londatiga.android.facebook.TestConnect
+ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:9:9-15:20
+	android:label
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:10:19-51
+	android:name
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:9:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:13:27-74
+activity#net.londatiga.android.facebook.TestPost
+ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:17:3-22:20
+	android:label
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:18:19-51
+	android:name
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:17:13-37
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:19:14-21:20
+action#android.intent.action.VIEW
+ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:20:25-66
+uses-permission#android.permission.INTERNET
+ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml:26:22-64
+uses-sdk
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+		ADDED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\sample\GitHubList-master\AndroidFacebook_master\app\src\main\AndroidManifest.xml
